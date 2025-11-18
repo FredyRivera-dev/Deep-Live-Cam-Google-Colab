@@ -64,7 +64,7 @@ uv pip uninstall tensorflow
 uv pip install tensorflow==2.12.0
 ```
 
-Run the UI with this command: 
+Run the GUI with this command: 
 ```bash
 python run.py
 ```
